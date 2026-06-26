@@ -14,7 +14,7 @@ El programa permite registrar productos y clientes, almacenarlos dentro del rest
 
 ## 📂 Estructura del proyecto.
 
----
+--- 
 
 restaurante_app/
 │
@@ -29,6 +29,7 @@ restaurante_app/
 │
 ├── main.py
 └── README.md
+---
 
 # 🏗️ Explicación de la estructura.
 
