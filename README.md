@@ -12,10 +12,9 @@ El sistema representa la gestión básica de un restaurante utilizando los princ
 
 El programa permite registrar productos y clientes, almacenarlos dentro del restaurante y mostrar la información registrada de manera clara y organizada en la consola.
 
-## 📂 Estructura del proyecto.
+## Estructura del proyecto
 
---- 
-
+```text
 restaurante_app/
 │
 ├── modelos/
@@ -28,8 +27,9 @@ restaurante_app/
 │   └── restaurante.py
 │
 ├── main.py
+│
 └── README.md
----
+```
 
 # 🏗️ Explicación de la estructura.
 
